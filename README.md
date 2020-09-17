@@ -5,7 +5,8 @@ A Minecraft mods that give you some item from [Mindustry](https://github.com/Anu
 
 ## Installation
 Get binaries from [Build server](https://dev.azure.com/sisit-ton/Mindustry4Craft/_build)
-
+and take /libs/mindustry4craft-1.0.jar
+ to .minecraft/mods folder
 ## Content
 ### Blocks
 

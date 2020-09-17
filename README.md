@@ -6,7 +6,7 @@ A Minecraft mods that give you some item from [Mindustry](https://github.com/Anu
 ## Installation
 Get binaries from [Build server](https://dev.azure.com/sisit-ton/Mindustry4Craft/_build)
 
-## Wiki
+## Content
 ### Blocks
 
 ### Items
@@ -14,3 +14,7 @@ Get binaries from [Build server](https://dev.azure.com/sisit-ton/Mindustry4Craft
 ### Fluids
 
 ### Crafting recipe
+
+## Credit
+Thanks for texture from [Mindustry](https://github.com/Anuken/Mindustry)
+## License

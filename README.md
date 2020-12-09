@@ -1,5 +1,5 @@
 # Mindustry4Craft
-A Minecraft mods that give you some item from [Mindustry](https://github.com/Anuken/Mindustry)
+A Minecraft mods of [Mindustry](https://github.com/Anuken/Mindustry)
 
 [![Build Status](https://dev.azure.com/sisit-ton/Mindustry4Craft/_apis/build/status/Mindustry4Craft?branchName=master)](https://dev.azure.com/sisit-ton/Mindustry4Craft/_build/latest?definitionId=6&branchName=master)
 
@@ -19,3 +19,4 @@ and take /libs/mindustry4craft-1.0.jar
 ## Credit
 Thanks for texture from [Mindustry](https://github.com/Anuken/Mindustry)
 ## License
+Apache-2.0 License

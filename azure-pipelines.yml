@@ -1,0 +1,43 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: Gradle@2
+  inputs:
+    workingDirectory: '$(system.defaultWorkingDirectory)/Mindustry4Craft/mindustry4craft'
+    gradleWrapperFile: '$(system.defaultWorkingDirectory)/Mindustry4Craft/mindustry4craft/gradlew'
+    gradleOptions: '-Xmx4096m'
+    javaHomeOption: 'JDKVersion'
+    jdkVersionOption: '1.8'
+    jdkArchitectureOption: 'x64'
+    publishJUnitResults: true
+    testResultsFiles: '**/TEST-*.xml'
+    tasks: 'build'
+
+#- task: PublishPipelineArtifact@1
+ # inputs:
+   # targetPath: '$(Pipeline.Workspace)/Mindustry4Craft/mindustry4craft/build'
+  #  publishLocation: 'pipeline'
+
+
+
+- task: CopyFiles@2
+  inputs:
+    sourceFolder: '$(Pipeline.Workspace)/s/Mindustry4Craft/mindustry4craft/build'
+    contents: '**'
+    targetFolder: '$(Build.ArtifactStagingDirectory)'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'Mindustry4Craft-1.0.2-1.15.2'
+    publishLocation: 'Container'
+

@@ -12,8 +12,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
 version = '1.0'
-group = 'com.yourname.modid'
-archivesBaseName = 'modid'
+group = 'net.mindustry4craft'
+archivesBaseName = 'Mindustry4Craft'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
 

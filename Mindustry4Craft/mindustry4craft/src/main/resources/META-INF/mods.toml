@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="mindustry4craft"
+version="1.0.3"
+displayName="Mindustry4Craft"
+credits="By Sonnie135,Texture From https://mindustrygame.github.io/"
+displayURL="https://Mindustry4Craft.tk"
+logoFile="logo.png"
+authors="sisit135"
+description='''
+'Mindustry' mod
+'''
+
+[[dependencies.mindustry4craft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

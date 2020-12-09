@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "mindustry4craft:block/ground_zero_portal_ew"
+    },
+    "axis=x": {
+      "model": "mindustry4craft:block/ground_zero_portal_ns"
+    }
+  }
+}

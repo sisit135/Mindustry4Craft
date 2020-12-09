@@ -1,0 +1,42 @@
+{
+  "group": "mindustry4craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "1": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "2": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "3": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "4": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "5": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "6": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "7": {
+      "item": "mindustry4craft:scrap_item"
+    },
+    "8": {
+      "item": "mindustry4craft:scrap_item"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ore",
+    "count": 1
+  }
+}

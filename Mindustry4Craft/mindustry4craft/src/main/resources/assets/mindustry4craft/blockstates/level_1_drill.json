@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mindustry4craft:block/level_1_drill"
+    },
+    "facing=east": {
+      "model": "mindustry4craft:block/level_1_drill",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mindustry4craft:block/level_1_drill",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mindustry4craft:block/level_1_drill",
+      "y": 270
+    }
+  }
+}

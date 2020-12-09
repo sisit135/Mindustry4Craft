@@ -1,0 +1,37 @@
+{
+  "group": "mindustry4craft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mindustry4craft:copper_item"
+    },
+    {
+      "item": "mindustry4craft:copper_item"
+    },
+    {
+      "item": "mindustry4craft:copper_item"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "mindustry4craft:level_1_drill",
+    "count": 1
+  }
+}

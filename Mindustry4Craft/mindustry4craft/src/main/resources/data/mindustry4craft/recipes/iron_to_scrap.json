@@ -1,0 +1,16 @@
+{
+  "group": "mindustry4craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ore"
+    }
+  },
+  "result": {
+    "item": "mindustry4craft:scrap_item",
+    "count": 9
+  }
+}

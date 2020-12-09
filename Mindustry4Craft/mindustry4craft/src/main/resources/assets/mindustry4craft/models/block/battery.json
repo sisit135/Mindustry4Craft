@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/error",
+    "up": "mindustry4craft:blocks/error",
+    "north": "mindustry4craft:blocks/error",
+    "east": "mindustry4craft:blocks/error",
+    "south": "mindustry4craft:blocks/error",
+    "west": "mindustry4craft:blocks/error",
+    "particle": "mindustry4craft:blocks/error"
+  }
+}

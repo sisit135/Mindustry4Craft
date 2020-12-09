@@ -1,0 +1,16 @@
+{
+  "group": "mindustry4craft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "mindustry4craft:graphite_item",
+    "count": 1
+  }
+}

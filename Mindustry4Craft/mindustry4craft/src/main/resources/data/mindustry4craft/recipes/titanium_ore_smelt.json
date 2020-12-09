@@ -1,0 +1,12 @@
+{
+  "group": "mindustry4craft",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mindustry4craft:titanium_ore"
+  },
+  "result": {
+    "item": "mindustry4craft:titanium_item"
+  }
+}

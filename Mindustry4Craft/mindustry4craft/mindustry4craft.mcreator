@@ -1,0 +1,290 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Mindustry4Craft",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mindustry_4_craft"
+    },
+    {
+      "name": "CopperItem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_item"
+    },
+    {
+      "name": "LeadItem",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lead_item"
+    },
+    {
+      "name": "ScrapItem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrap_item"
+    },
+    {
+      "name": "GraphiteItem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphite_item"
+    },
+    {
+      "name": "ScrapToIron",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrap_to_iron"
+    },
+    {
+      "name": "IronToScrap",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_to_scrap"
+    },
+    {
+      "name": "CoalToGraphite",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_to_graphite"
+    },
+    {
+      "name": "Cryofluid",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cryofluid"
+    },
+    {
+      "name": "TitaniumItem",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_item"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumOreSmelt",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_smelt"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumPicaxe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_picaxe"
+    },
+    {
+      "name": "Level1DrillGUI",
+      "type": "gui",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "level_1_drill_gui"
+    },
+    {
+      "name": "DrillMineTick",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drill_mine_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Level1Drill",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "level_1_drill"
+    },
+    {
+      "name": "Level1DrillCraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "level_1_drill_craft"
+    },
+    {
+      "name": "Level2Drill",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "level_2_drill"
+    },
+    {
+      "name": "Levl2DrillGUI",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "levl_2_drill_gui"
+    },
+    {
+      "name": "CoreShard",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "core_shard"
+    },
+    {
+      "name": "Ohno",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ohno"
+    },
+    {
+      "name": "GroundZero",
+      "type": "dimension",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ground_zero"
+    },
+    {
+      "name": "Battery",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "TurretBulletLevel",
+      "type": "number",
+      "scope": "world",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mindustry4craft.ground_zero": "Ground Zero Portal Igniter",
+      "item.mindustry4craft.lead_item": "Lead",
+      "itemGroup.tabmindustry_4_craft": "Mindustry4Craft",
+      "fluid.cryofluid": "Cryofluid",
+      "block.mindustry4craft.battery": "Battery",
+      "block.mindustry4craft.ohno": "Ohno",
+      "block.mindustry4craft.titanium_ore": "Titanium Ore",
+      "block.mindustry4craft.level_1_drill": "Level 1 Drill",
+      "block.mindustry4craft.core_shard": "Core: Shard",
+      "item.mindustry4craft.cryofluid_bucket": "Cryofluid Bucket",
+      "item.mindustry4craft.titanium_item": "Titanium",
+      "block.mindustry4craft.level_2_drill": "Level 2 Drill",
+      "item.mindustry4craft.graphite_item": "Graphite",
+      "item.mindustry4craft.scrap_item": "Scrap",
+      "item.mindustry4craft.copper_item": "Copper",
+      "item.mindustry4craft.titanium_pickaxe": "Titanium Pickaxe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mindustry4craft",
+    "modName": "Mindustry4Craft",
+    "version": "1.0.3",
+    "description": "\u0027Mindustry\u0027 mod",
+    "author": "sisit135",
+    "websiteURL": "https://Mindustry4Craft.tk",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "By Sonnie135,Texture From https://mindustrygame.github.io/",
+    "modElementsPackage": "net.mindustrycraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

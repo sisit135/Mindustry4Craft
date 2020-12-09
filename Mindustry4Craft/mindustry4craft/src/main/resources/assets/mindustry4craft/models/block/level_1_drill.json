@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/drillbottom",
+    "up": "mindustry4craft:blocks/block-mechanical-drill-large",
+    "north": "mindustry4craft:blocks/drill1side",
+    "east": "mindustry4craft:blocks/drill1side",
+    "south": "mindustry4craft:blocks/drill1side",
+    "west": "mindustry4craft:blocks/drill1side",
+    "particle": "mindustry4craft:blocks/drillbottom"
+  }
+}

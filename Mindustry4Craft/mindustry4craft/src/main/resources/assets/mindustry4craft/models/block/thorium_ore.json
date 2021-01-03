@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/thorium1",
+    "up": "mindustry4craft:blocks/thorium1",
+    "north": "mindustry4craft:blocks/thorium1",
+    "east": "mindustry4craft:blocks/thorium1",
+    "south": "mindustry4craft:blocks/thorium1",
+    "west": "mindustry4craft:blocks/thorium1",
+    "particle": "mindustry4craft:blocks/thorium1"
+  }
+}

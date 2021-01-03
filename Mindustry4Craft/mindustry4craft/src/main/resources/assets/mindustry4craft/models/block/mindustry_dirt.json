@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/dirt1",
+    "up": "mindustry4craft:blocks/dirt3",
+    "north": "mindustry4craft:blocks/dirt2",
+    "east": "mindustry4craft:blocks/dirt2",
+    "south": "mindustry4craft:blocks/dirt3",
+    "west": "mindustry4craft:blocks/dirt1",
+    "particle": "mindustry4craft:blocks/dirt1"
+  }
+}

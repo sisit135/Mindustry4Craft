@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/craters5",
+    "up": "mindustry4craft:blocks/craters5",
+    "north": "mindustry4craft:blocks/craters6",
+    "east": "mindustry4craft:blocks/craters6",
+    "south": "mindustry4craft:blocks/craters6",
+    "west": "mindustry4craft:blocks/craters5",
+    "particle": "mindustry4craft:blocks/craters5"
+  }
+}

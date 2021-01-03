@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mindustry4craft:blocks/darksand2",
+    "up": "mindustry4craft:blocks/darksand1",
+    "north": "mindustry4craft:blocks/darksand2",
+    "east": "mindustry4craft:blocks/darksand1",
+    "south": "mindustry4craft:blocks/darksand1",
+    "west": "mindustry4craft:blocks/darksand3",
+    "particle": "mindustry4craft:blocks/darksand2"
+  }
+}

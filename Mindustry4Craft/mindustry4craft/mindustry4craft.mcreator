@@ -220,15 +220,6 @@
       "registry_name": "ohno"
     },
     {
-      "name": "GroundZero",
-      "type": "dimension",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ground_zero"
-    },
-    {
       "name": "Battery",
       "type": "block",
       "sortid": 24,
@@ -236,6 +227,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "battery"
+    },
+    {
+      "name": "DarkSand",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_sand"
+    },
+    {
+      "name": "MindustryDirt",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mindustry_dirt"
+    },
+    {
+      "name": "MindustryGrass",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mindustry_grass"
+    },
+    {
+      "name": "ThoriumOre",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thorium_ore"
+    },
+    {
+      "name": "MindustryStone",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mindustry_stone"
     }
   ],
   "variable_elements": [
@@ -249,11 +285,12 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.mindustry4craft.ground_zero": "Ground Zero Portal Igniter",
+      "block.mindustry4craft.mindustry_stone": "Mindustry Stone",
       "item.mindustry4craft.lead_item": "Lead",
       "itemGroup.tabmindustry_4_craft": "Mindustry4Craft",
       "fluid.cryofluid": "Cryofluid",
       "block.mindustry4craft.battery": "Battery",
+      "block.mindustry4craft.mindustry_dirt": "Mindustry Dirt",
       "block.mindustry4craft.ohno": "Ohno",
       "block.mindustry4craft.titanium_ore": "Titanium Ore",
       "block.mindustry4craft.level_1_drill": "Level 1 Drill",
@@ -262,9 +299,12 @@
       "item.mindustry4craft.titanium_item": "Titanium",
       "block.mindustry4craft.level_2_drill": "Level 2 Drill",
       "item.mindustry4craft.graphite_item": "Graphite",
+      "block.mindustry4craft.thorium_ore": "Thorium Ore",
       "item.mindustry4craft.scrap_item": "Scrap",
       "item.mindustry4craft.copper_item": "Copper",
-      "item.mindustry4craft.titanium_pickaxe": "Titanium Pickaxe"
+      "item.mindustry4craft.titanium_pickaxe": "Titanium Pickaxe",
+      "block.mindustry4craft.mindustry_grass": "Mindustry Grass",
+      "block.mindustry4craft.dark_sand": "Dark Sand"
     }
   },
   "workspaceSettings": {

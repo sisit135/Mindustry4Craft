@@ -15,7 +15,7 @@
         "MCP_MAPPINGS": "snapshot_20200514-1.15.1",
         "MCP_VERSION": "20200515.085601",
         "FORGE_VERSION": "31.2.0",
-        "assetIndex": "1.16",
+        "assetIndex": "1.15",
         "assetDirectory": "C:\\Users\\Adae\\.gradle\\caches\\forge_gradle\\assets",
         "nativesDirectory": "${workspaceFolder}\\build\\natives",
         "FORGE_GROUP": "net.minecraftforge",

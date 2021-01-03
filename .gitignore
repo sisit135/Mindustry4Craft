@@ -50,3 +50,5 @@ run
 # Files from Forge MDK
 forge*changelog.txt
 
+Mindustry4Craft/mindustry4craft/logs/debug.log
+Mindustry4Craft/mindustry4craft/logs/latest.log
